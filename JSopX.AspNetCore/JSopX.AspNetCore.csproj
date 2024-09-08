@@ -15,6 +15,12 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.7" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\JSopX.ClassLibrary\JSopX.ClassLibrary\JSopX.ClassLibrary.csproj" />
+    <ProjectReference Include="..\JSopX.RCLxProper\JSopX.RCLxProper\JSopX.RCLxProper.csproj" />
+    <ProjectReference Include="..\JSopX.WebAPI\JSopX.WebAPI\JSopX.WebAPI.csproj" />
+  </ItemGroup>
+
  
   <!-- In the first condition, you're checking if the project path contains JSopX.WebAPI 
    but not JSopX.AspNetCore. This is great for making sure the path works when it’s 
