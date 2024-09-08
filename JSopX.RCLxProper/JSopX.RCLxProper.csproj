@@ -70,7 +70,7 @@
 
     
     <!-- Special case: Reference for JSopX.MuiHybridNetCore -->
-    <ProjectReference Condition="$([System.String]::Copy($(ProjectPath)).Contains('JSopX.MuiHybridNetCore\JSopX.RCLxProper'))"
+    <ProjectReference Condition="$([System.String]::Copy($(ProjectPath)).Contains('JSopX.MauiHybridNetCore\JSopX.RCLxProper'))"
                       Include="..\..\JSopX.ClassLibrary\JSopX.ClassLibrary\JSopX.ClassLibrary.csproj">
     </ProjectReference>
 
