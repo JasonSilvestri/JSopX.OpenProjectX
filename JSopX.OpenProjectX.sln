@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSopX.WebAPI", "JSopX.WebAP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSopX.RCLxProper", "JSopX.RCLxProper\JSopX.RCLxProper\JSopX.RCLxProper.csproj", "{13335914-F35F-448D-A674-8FFDA63DF8BA}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSopX.RCLxAssets", "JSopX.RCLxAssets\JSopX.RCLxAssets\JSopX.RCLxAssets.csproj", "{1A34BEE2-BC66-49F9-8345-EA21A568805E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{13335914-F35F-448D-A674-8FFDA63DF8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13335914-F35F-448D-A674-8FFDA63DF8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13335914-F35F-448D-A674-8FFDA63DF8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A34BEE2-BC66-49F9-8345-EA21A568805E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A34BEE2-BC66-49F9-8345-EA21A568805E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A34BEE2-BC66-49F9-8345-EA21A568805E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A34BEE2-BC66-49F9-8345-EA21A568805E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
