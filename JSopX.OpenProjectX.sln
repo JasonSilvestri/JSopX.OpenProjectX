@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSopX.RCLxComponents", "JSo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSopX.RCLxAssets", "JSopX.RCLxAssets\JSopX.RCLxAssets\JSopX.RCLxAssets.csproj", "{2B271F18-6C17-4BC3-97D3-54C205D99441}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSopX.AspNetCore", "JSopX.AspNetCore\JSopX.AspNetCore\JSopX.AspNetCore.csproj", "{A0F4BA6C-3132-4CA8-8849-4382543C76F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2B271F18-6C17-4BC3-97D3-54C205D99441}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B271F18-6C17-4BC3-97D3-54C205D99441}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B271F18-6C17-4BC3-97D3-54C205D99441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F4BA6C-3132-4CA8-8849-4382543C76F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F4BA6C-3132-4CA8-8849-4382543C76F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F4BA6C-3132-4CA8-8849-4382543C76F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F4BA6C-3132-4CA8-8849-4382543C76F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
