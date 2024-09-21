@@ -1,0 +1,13 @@
+<Project>
+  <PropertyGroup>
+    <OpenProjectxClassLibraryPath>..\..\JSopX.ClassLibrary\JSopX.ClassLibrary</OpenProjectxClassLibraryPath>
+    <OpenProjectxWebAPIPath>..\..\JSopX.WebAPI\JSopX.WebAPI</OpenProjectxWebAPIPath>
+    <OpenProjectxRCLxProperPath>..\..\JSopX.RCLxProper\JSopX.RCLxProper</OpenProjectxRCLxProperPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="$(OpenProjectxClassLibraryPath)\JSopX.ClassLibrary.csproj" />
+    <ProjectReference Include="$(OpenProjectxWebAPIPath)\JSopX.WebAPI.csproj" />
+    <ProjectReference Include="$(OpenProjectxRCLxProperPath)\JSopX.RCLxProper.csproj" />
+  </ItemGroup>
+</Project>
