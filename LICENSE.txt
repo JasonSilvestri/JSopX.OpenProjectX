@@ -1,17 +1,17 @@
-﻿﻿jSilvestri.com BETA v 2024 the JSopX™ Open Project EXperiences Collection 
-[JSopX™ Open ProjectX Solution](https://github.com/JasonSilvestri/JSopX.OpenProjectX)
+﻿From the jSilvestri.com BETA v 2025 the Jason Silvestri Open Project EXperiences (JSopX™) Collection: 
 
-[Licensed under MIT](https://github.com/JasonSilvestri/JSopX.OpenProjectX/blob/master/LICENSE.txt)
+Featuring, the JSopX™ JSopX.OpenProjectX Project: https://github.com/JasonSilvestri/JSopX.OpenProjectX.git
 
-© 2024 Jason Silvestri · All Rights Reserved  
+Licensed under MIT: https://github.com/JasonSilvestri/JSopX.OpenProjectX/blob/master/LICENSE.txt
 
-[Official Website](https://www.jsilvestri.com/) | [X](https://www.x.com/JasonSilvestri) | [LinkedIn](http://www.linkedin.com/in/JasonSilvestri) | [GitHub](https://github.com/JasonSilvestri) | [Gmail](mailto:therealjasonsilvestri@gmail.com) | [Phone : 508-851-9445](phoneto:508-851-9445)
+© 2025 Jason Silvestri · All Rights Reserved  
 
 ============================================================================
 Authors & Developers of Code: Jason Silvestri, 
-Solution Architect, Lead Sr. Multi-Platform, Multi-Stack, .NET Full-Stack Developer
+Solution Architect, Lead Sr. Multi-Platform Software Engineer & .NET Full-Stack Developer
 
 Ownership: Jason Silvestri
+www.JSopX.com
 ============================================================================
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
